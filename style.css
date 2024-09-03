@@ -221,6 +221,26 @@ body{
 .color-plate span.color12{
 	background:#44ce6f;
 }
+
+/*hiring  */
+    .we-are-hiring-section {
+        padding: 20px 0;
+    }
+
+    .we-are-hiring-section h2 {
+        font-size: 28px;
+        margin-bottom: 20px;
+    }
+
+    .we-are-hiring-section img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .we-are-hiring-section .btn-primary {
+        font-size: 18px;
+        padding: 10px 20px;
+    }
 /*=============================
 	End Global CSS 
 ===============================*/
